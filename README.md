@@ -1,1 +1,2 @@
-# Kevinscode
+A collection of code
+
